@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/budget-buddy-react/static/css/main.741c14d9.chunk.css",
+    "main.js": "/budget-buddy-react/static/js/main.8f692860.chunk.js",
+    "main.js.map": "/budget-buddy-react/static/js/main.8f692860.chunk.js.map",
+    "runtime-main.js": "/budget-buddy-react/static/js/runtime-main.735abfc9.js",
+    "runtime-main.js.map": "/budget-buddy-react/static/js/runtime-main.735abfc9.js.map",
+    "static/js/2.5bb0808a.chunk.js": "/budget-buddy-react/static/js/2.5bb0808a.chunk.js",
+    "static/js/2.5bb0808a.chunk.js.map": "/budget-buddy-react/static/js/2.5bb0808a.chunk.js.map",
+    "static/js/3.d64a40ab.chunk.js": "/budget-buddy-react/static/js/3.d64a40ab.chunk.js",
+    "static/js/3.d64a40ab.chunk.js.map": "/budget-buddy-react/static/js/3.d64a40ab.chunk.js.map",
+    "index.html": "/budget-buddy-react/index.html",
+    "static/css/main.741c14d9.chunk.css.map": "/budget-buddy-react/static/css/main.741c14d9.chunk.css.map",
+    "static/js/2.5bb0808a.chunk.js.LICENSE.txt": "/budget-buddy-react/static/js/2.5bb0808a.chunk.js.LICENSE.txt",
+    "static/media/Home.css": "/budget-buddy-react/static/media/home-banner-calculator.3ca63723.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.735abfc9.js",
+    "static/js/2.5bb0808a.chunk.js",
+    "static/css/main.741c14d9.chunk.css",
+    "static/js/main.8f692860.chunk.js"
+  ]
+}
