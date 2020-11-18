@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import './css/App.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 import NavHeader from './components/nav/NavHeader';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
@@ -20,7 +21,7 @@ class App extends Component {
         <Layout>
           <Router>
             <Switch>
-              <Route  path="/" component={Home} />
+              <Route  exact path="/" component={Home} />
               <Route  path="/about" component={About} />
               <Route  path="/Contact" component={Contact} />
               <Route  path="/Summary" component={Summary} />
